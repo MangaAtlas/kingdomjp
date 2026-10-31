@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
- <url><loc>https://mangaatlasjpraw.github.io/kingdomjp/</loc></url>
- <url><loc>https://mangaatlasjpraw.github.io/kingdomjp/manga.html?slug=kingdom</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://mangaatlasjpraw.github.io/kingdomjp/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <image:image><image:loc>https://mangaatlasjpraw.github.io/kingdomjp/manga-covers/kingdom/1793478110110-______Raw___Kingdom_Raw__.webp</image:loc><image:title>kingdom manga cover</image:title></image:image>
+  </url>
+  <url><loc>https://mangaatlasjpraw.github.io/kingdomjp/manga.html?slug=kingdom</loc></url>
 </urlset>
