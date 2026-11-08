@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://mangaatlasjpraw.github.io/kingdomjp/</loc>
+    <loc>https://mangaatlas.github.io/kingdomjp/</loc>
     <lastmod>2026-11-01</lastmod>
-    <image:image><image:loc>https://mangaatlasjpraw.github.io/kingdomjp/manga-covers/kingdom/1793478110110-______Raw___Kingdom_Raw__.webp</image:loc><image:title>kingdom manga cover</image:title></image:image>
+    <image:image><image:loc>https://mangaatlas.github.io/kingdomjp/manga-covers/kingdom/1793478110110-______Raw___Kingdom_Raw__.webp</image:loc><image:title>kingdom manga cover</image:title></image:image>
   </url>
-  <url><loc>https://mangaatlasjpraw.github.io/kingdomjp/manga.html?slug=kingdom</loc></url>
+  <url><loc>https://mangaatlas.github.io/kingdomjp/manga.html?slug=kingdom</loc></url>
   <url>
-    <loc>https://mangaatlasjpraw.github.io/kingdomjp/chapter/kingdom-raw-jap-894/</loc>
+    <loc>https://mangaatlas.github.io/kingdomjp/chapter/kingdom-raw-jap-894/</loc>
     <lastmod>2026-11-04</lastmod>
-    <image:image><image:loc>https://raw.githubusercontent.com/MangaAtlasjpraw/kingdomjp/main/chapter-images/kingdom/chapter-kingdom-raw-jap-894/.upload-1793812665443/0001-_877_2026_6_1_26_.jpg</image:loc><image:title>Kingdom Raw Chapter 894 Japanese page 1</image:title></image:image>
+    <image:image><image:loc>https://raw.githubusercontent.com/MangaAtlas/kingdomjp/main/chapter-images/kingdom/chapter-kingdom-raw-jap-894/.upload-1793812665443/0001-_877_2026_6_1_26_.jpg</image:loc><image:title>Kingdom Raw Chapter 894 Japanese page 1</image:title></image:image>
   </url>
 </urlset>
